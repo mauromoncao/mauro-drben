@@ -1,11 +1,11 @@
 {
-  "name": "Lex OS — Gestão Comercial",
-  "short_name": "Lex OS",
-  "description": "Sistema de gestão comercial do escritório Mauro Monção Advogados",
+  "name": "Ben Growth Center",
+  "short_name": "Ben Growth",
+  "description": "Centro de Inteligência Comercial Jurídica — Mauro Monção Advogados",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#1a2a5e",
-  "theme_color": "#1a2a5e",
+  "background_color": "#0f2044",
+  "theme_color": "#0f2044",
   "orientation": "portrait-primary",
   "icons": [
     { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },

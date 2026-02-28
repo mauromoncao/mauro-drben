@@ -1,8 +1,8 @@
 {
-  "name": "lex-traffic",
+  "name": "ben-growth-center",
   "version": "1.0.0",
   "type": "module",
-  "description": "Lex Traffic - Agente de Tráfego Pago e Orgânico para Mauro Monção Advogados",
+  "description": "Ben Growth Center — Centro de Inteligência Comercial Jurídica | Mauro Monção Advogados",
   "scripts": {
     "dev": "concurrently \"npm run dev:client\" \"npm run dev:server\"",
     "dev:client": "vite",

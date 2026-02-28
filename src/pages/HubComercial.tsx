@@ -29,7 +29,10 @@ export default function HubComercial() {
       {/* Header */}
       <div className="flex items-center justify-between">
         <div>
-          <h1 className="text-2xl font-bold text-slate-800">HUB Comercial</h1>
+          <div>
+            <h1 className="text-2xl font-bold text-slate-800">Ben Growth Center</h1>
+            <p className="text-growth-600 text-xs font-semibold uppercase tracking-wider">Centro de Inteligência Comercial Jurídica</p>
+          </div>
           <p className="text-slate-500 text-sm mt-1">Visão geral unificada — Tráfego · Marketing · CRM · Dr. Ben</p>
         </div>
         <div className="flex items-center gap-3">
@@ -250,12 +253,12 @@ export default function HubComercial() {
       {/* Missão comercial */}
       <div className="card bg-gradient-to-r from-primary-900 to-primary-700 text-white">
         <div className="flex items-start gap-4">
-          <div className="w-12 h-12 bg-gold rounded-xl flex items-center justify-center flex-shrink-0">
-            <Zap className="w-6 h-6 text-white" />
+          <div className="w-12 h-12 bg-growth rounded-xl flex items-center justify-center flex-shrink-0">
+            <TrendingUp className="w-6 h-6 text-white" />
           </div>
           <div>
             <h2 className="font-bold text-xl mb-1">Meta Comercial — Março 2026</h2>
-            <p className="text-primary-200 text-sm mb-4">Gestão centralizada: tráfego + IA + CRM sem dependências externas</p>
+            <p className="text-primary-200 text-sm mb-4">Ben Growth Center: tráfego + IA + CRM centralizado — sem sistemas externos</p>
             <div className="grid grid-cols-3 gap-4">
               {[
                 { label: 'Leads/mês', atual: 89, meta: 150, cor: 'bg-blue-400' },
